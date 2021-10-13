@@ -6,7 +6,7 @@ I'm a major participater in ORCSGirls (https://www.orcsgirls.org) classes, they 
 Here are a few facts about my Git and GitHub life :octocat: :electron::
 
 - 🖱️ I'm currently working on a lot of environment monitoring and other scientific code for my Raspberry Pi
-- 📖 I'm currently learning a lot about Git and GitHub using [GitHub Docs](https://docs.github.com/) (P.S. - It's really helpful)
+- 📚 I'm currently learning a lot about Git and GitHub using [GitHub Docs](https://docs.github.com/) (P.S. - It's really helpful)
 <!--
 **ThuviksaM/ThuviksaM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
