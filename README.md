@@ -1,4 +1,4 @@
-### Hey there 👋, I'm Thuviksa Mathialakan!
+# Hey there 👋, I'm Thuviksa Mathialakan!
 ## :octocat: :electron:
 
 I am a HUGE fan of Git and GitHub, and I LOVE to code (especialy in Python). 🐍 Dr. Proffen, Amelie Nagle, and many others are my major roll-models. I, also LOVE collecting and analyzing data, because the results are always amazingly unpredictable, suprising, and awesome. 📊 Oh, and I LOVE all Octocats! :octocat:
