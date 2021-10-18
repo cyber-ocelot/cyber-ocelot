@@ -1,4 +1,4 @@
-# Hey there 👋, I'm Thuviksa Mathialakan! @ThuviksaM
+# Hey there 👋, I'm Thuviksa Mathialakan!
 <!-- ### [:octocat::electron:](https://github.com/ThuviksaM/Berry_Blob) -->
 
 I am a huge fan of Git and GitHub, and I love to code (especialy in Python). 🐍 Dr. Proffen, Amelie Nagle, and many others are my major roll-models. I, also love collecting and analyzing data, because the results are always amazingly unpredictable, suprising, and awesome. 📊 And I love all Octocats! :octocat:
