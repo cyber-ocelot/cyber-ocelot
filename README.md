@@ -3,7 +3,7 @@
 
 According to me I'm just a general Middle Schooler 😉, except that I'm also on GitHub :octocat: :electron:.
 
-I am a huge fan of Git and GitHub, and I love to code (especialy in Python). 🐍 Dr. Proffen, Amelie Nagle, and many others are my major roll-models. I, also love collecting and analyzing data, because the results are always amazingly unpredictable, suprising, and awesome. 📊 And I love all Octocats! :octocat:
+I am a huge fan of Git and GitHub, and I love to code (especialy in Python). 🐍 [Dr. Proffen](https://github.com/tproffen), [Amelie Nagle](https://github.com/SootSprite15), and many others are my major roll-models. I, also love collecting and analyzing data, because the results are always amazingly unpredictable, suprising, and awesome. 📊 And I love all Octocats! :octocat:
 
 I'm a major participater in [ORCSGirls events](https://www.orcsgirls.org/events), they are SUPER fun, in fact, if you are a 5th - 8th grade girl or have a daughter who is, I highly recommend registering for some! They were even awarded with one of the Top-Rated Awards of 2021 from [GreatNonprofits](https://greatnonprofits.org/org/oak-ridge-computer-science-girls)! 🥇 Genarally, they're AMAZING! 😎 You can visit them on GitHub at [@orcsgirls](https://github.com/orcsgirls). :basecamp:
 
