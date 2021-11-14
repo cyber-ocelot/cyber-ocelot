@@ -1,5 +1,5 @@
 # Hey there 👋, I'm Thuviksa Mathialakan!
-<!-- ### [:octocat::electron:](https://github.com/ThuviksaM/Berry_Blob) -->
+<!-- ### [:octocat::electron:](https://github.com/ThuviksaM) -->
 
 According to me I'm just a general Middle Schooler 😉, except that I'm also on GitHub :octocat: :electron:
 
