@@ -7,7 +7,7 @@ I am a huge fan of Git and GitHub, and I love to code (especialy in Python). �
 I, also love collecting and analyzing data, because the results are always amazingly unpredictable, suprising, and awesome. 📊 
 And I love all Octocats! :octocat:
 
-I'm a major participater in [ORCSGirls events](https://www.orcsgirls.org/events), they are SUPER fun, in fact, if you are a 5th - 8th grade girl or have a daughter who is, I highly recommend registering for some! 
+I'm a major participant in [ORCSGirls events](https://www.orcsgirls.org/events), they are SUPER fun, in fact, if you are a 5th - 8th grade girl or have a daughter who is, I highly recommend registering for some! 
 They were even awarded with one of the Top-Rated Awards of 2021 from [GreatNonprofits](https://greatnonprofits.org/org/oak-ridge-computer-science-girls)! 🥇 
 Genarally, they're AMAZING! 😎 
 You can visit them on GitHub at [@orcsgirls](https://github.com/orcsgirls). :basecamp:
