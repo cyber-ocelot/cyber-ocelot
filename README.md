@@ -16,7 +16,7 @@ Here are a few facts about my Git and GitHub life :octocat: :electron::
 
 - 🖱️ I'm currently working on a lot of environment monitoring and other scientific code for my Raspberry Pi
 - 📚 I'm currently learning a lot about Git and GitHub using [GitHub Docs](https://docs.github.com/) (P.S. - It's really helpful)
-- :octocat: :electron: <-- My two favorite GitHub emojis
+- :octocat: :electron: :atom: <-- My favorite emojis, found only on GitHub
 <!--
 **ThuviksaM/ThuviksaM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
