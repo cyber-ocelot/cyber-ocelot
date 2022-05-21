@@ -14,7 +14,7 @@ You can visit them on GitHub at [@orcsgirls](https://github.com/orcsgirls). :bas
 
 Here are a few facts about my Git and GitHub life :octocat: :electron::
 
-- 🖱️ I'm currently working on a lot of environment monitoring and other scientific code for my Raspberry Pi
+- 👩🏻‍💻 I'm currently working on a lot of different coding projects
 - 📚 I'm currently learning a lot about Git and GitHub using [GitHub Docs](https://docs.github.com/) (P.S. - It's really helpful)
 - :octocat: :electron: :atom: <-- My favorite emojis, found only on GitHub
 <!--
