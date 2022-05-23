@@ -1,6 +1,6 @@
 # Hey, this is Thuviksa! 👋
 
-[]()
+[](images/81fTkLk6h5L._AC_SX425_.jpg)
 
 According to me I'm just a general Middle Schooler 😉, except that I'm also on GitHub :octocat: :electron:
 
