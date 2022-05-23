@@ -1,5 +1,5 @@
 # Hey, this is Thuviksa! 👋
-<img src="images/wallpaper" alt="header image" width="800" length="300"/>
+<img src="images/wallpaper" alt="header image" width="2500" length="300"/>
 
 According to me I'm just a general Middle Schooler 😉, except that I'm also on GitHub :octocat: :electron:
 
