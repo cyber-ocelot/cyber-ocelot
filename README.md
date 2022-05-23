@@ -1,5 +1,7 @@
 # Hey, this is Thuviksa! 👋
 
+[]()
+
 According to me I'm just a general Middle Schooler 😉, except that I'm also on GitHub :octocat: :electron:
 
 I am a huge fan of Git and GitHub, and I love to code (especialy in Python). 🐍 
