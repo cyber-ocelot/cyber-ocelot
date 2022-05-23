@@ -9,7 +9,7 @@ And I love all Octocats! :octocat:
 
 Oh! And, before I forget, I ***LOVE*** ocelots! 🐱
 
-I'm a major participant in [ORCSGirls events](https://www.orcsgirls.org/events), they are SUPER fun, in fact, if you are a 5th - 8th grade girl or have a daughter who is, I highly recommend registering for some! 
+I'm a major participant and volunteer in [ORCSGirls events](https://www.orcsgirls.org/events), they are SUPER fun, in fact, if you are a 5th - 8th grade girl or have a daughter who is, I highly recommend registering for some! 
 They were even awarded with one of the Top-Rated Awards of 2021 from [GreatNonprofits](https://greatnonprofits.org/org/oak-ridge-computer-science-girls)! 🥇 
 Genarally, they're AMAZING! 😎 
 You can visit them on GitHub at [@orcsgirls](https://github.com/orcsgirls). :basecamp:
@@ -19,6 +19,11 @@ Here are a few facts about my Git and GitHub life :octocat: :electron::
 - 👩🏻‍💻 I'm currently working on a lot of different coding projects
 - 📚 I'm currently learning a lot about Git and GitHub using [GitHub Docs](https://docs.github.com/) (P.S. - It's really helpful)
 - :octocat: :electron: :atom: <-- My favorite emojis, found only on GitHub
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=cyber-celot&theme=swift&show_icons=true&count_private=true)
+
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=cyber-ocelot&layout=compact)
+
 <!--
 **ThuviksaM/ThuviksaM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
