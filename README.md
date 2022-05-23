@@ -1,6 +1,6 @@
-# Hey, this is Thuviksa! 👋
-<img src="images/wallpaper" alt="header image" width="2500" length="200"/>
+<h1>Hey, this is Thuviksa! 👋</h1>
 
+<h5>
 According to me I'm just a general Middle Schooler 😉, except that I'm also on GitHub :octocat: :electron:
 
 I am a huge fan of Git and GitHub, and I love to code (especialy in Python). 🐍 
@@ -20,6 +20,7 @@ Here are a few facts about my Git and GitHub life :octocat: :electron::
 - 👩🏻‍💻 I'm currently working on a lot of different coding projects
 - 📚 I'm currently learning a lot about Git and GitHub using [GitHub Docs](https://docs.github.com/) (P.S. - It's really helpful)
 - :octocat: :electron: :atom: <-- My favorite emojis, found only on GitHub
+</h5>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=cyber-ocelot&theme=cobalt&show_icons=true&count_private=true&count_all_commits=true)![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=cyber-ocelot&layout=compact&theme=cobalt)
 
