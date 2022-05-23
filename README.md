@@ -21,7 +21,7 @@ Here are a few facts about my Git and GitHub life :octocat: :electron::
 - :octocat: :electron: :atom: <-- My favorite emojis, found only on GitHub
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=cyber-ocelot&theme=cobalt&show_icons=true&count_private=true)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=cyber-ocelot&layout=compact&theme=calm)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=cyber-ocelot&layout=compact&theme=cobalt)
 
 <!--
 **ThuviksaM/ThuviksaM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
