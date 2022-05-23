@@ -1,4 +1,4 @@
-# Hey there 👋, I'm Thuviksa Mathialakan!
+# Hey, this is Thuviksa! 👋
 
 According to me I'm just a general Middle Schooler 😉, except that I'm also on GitHub :octocat: :electron:
 
@@ -20,8 +20,7 @@ Here are a few facts about my Git and GitHub life :octocat: :electron::
 - 📚 I'm currently learning a lot about Git and GitHub using [GitHub Docs](https://docs.github.com/) (P.S. - It's really helpful)
 - :octocat: :electron: :atom: <-- My favorite emojis, found only on GitHub
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=cyber-ocelot&theme=cobalt&show_icons=true&count_private=true&count_all_commits=true)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=cyber-ocelot&layout=compact&theme=cobalt)
+![Github stats](https://github-readme-stats.vercel.app/api?username=cyber-ocelot&theme=cobalt&show_icons=true&count_private=true&count_all_commits=true)![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=cyber-ocelot&layout=compact&theme=cobalt)
 
 <!--
 **ThuviksaM/ThuviksaM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
