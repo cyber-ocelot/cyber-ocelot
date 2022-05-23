@@ -21,7 +21,6 @@ Here are a few facts about my Git and GitHub life :octocat: :electron::
 - :octocat: :electron: :atom: <-- My favorite emojis, found only on GitHub
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=cyber-ocelot&theme=swift&show_icons=true&count_private=true)
-
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=cyber-ocelot&layout=compact)
 
 <!--
