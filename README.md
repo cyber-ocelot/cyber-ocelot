@@ -1,5 +1,6 @@
 # Hey, this is Thuviksa! 👋
-(images/81fTkLk6h5L._AC_SX425_.jpg)
+!alt[https://github.com/cyber-ocelot/cyber-ocelot/blob/master/images/81fTkLk6h5L._AC_SX425_.jpg]
+
 According to me I'm just a general Middle Schooler 😉, except that I'm also on GitHub :octocat: :electron:
 
 I am a huge fan of Git and GitHub, and I love to code (especialy in Python). 🐍 
