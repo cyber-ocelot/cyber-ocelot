@@ -1,5 +1,5 @@
 # Hey, this is Thuviksa! 👋
-!alt[https://github.com/cyber-ocelot/cyber-ocelot/blob/master/images/81fTkLk6h5L._AC_SX425_.jpg]
+![header image](https://github.com/cyber-ocelot/cyber-ocelot/blob/master/images/81fTkLk6h5L._AC_SX425_.jpg?raw=true)
 
 According to me I'm just a general Middle Schooler 😉, except that I'm also on GitHub :octocat: :electron:
 
