@@ -1,4 +1,4 @@
-<img src="images/oce.jpeg" alt="image header" width="100" height="100"/>
+<img src="images/oce.jpeg" alt="image header" width="300" height="100"/>
 <h1>Hey, this is Thuviksa! 👋</h1>
 <h6>
 According to me I'm just a general Middle Schooler 😉, except that I'm also on GitHub :octocat: :electron:
