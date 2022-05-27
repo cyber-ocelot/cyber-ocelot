@@ -1,4 +1,4 @@
-<h1>Hey, this is Thuviksa! 👋<img src="images/oce.jpeg" alt="image header" width="50"/></h1>
+<h1>Hey, this is Thuviksa! 👋 <img src="images/oce.jpeg" alt="image header" width="150"/></h1>
 <h6>
 According to me I'm just a general Middle Schooler 😉, except that I'm also on GitHub :octocat: :electron:
 
