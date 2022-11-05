@@ -1,26 +1,8 @@
-<img src="images/cool_island.gif" alt="image header" width="200"/>
-<h1>Hey, this is Thuviksa!</h1>
-<h6>
-According to me I'm just a general Middle Schooler 😉, except that I'm also on GitHub :octocat: :electron:
+#Hey, this is Thuviksa!
 
+I *love* 💕 to code and develop new ideas 💡, and am currently in a battle ⚔️ between favoring Swift 🐦 the most and favoring Python 🐍 the most. Currently, I have come to the deision that I will favor them both equally, but who knows 🤷‍♀️...
 
-I am a huge fan of Git and GitHub, and I love to code (especialy in Python). 🐍 
-[Dr. Proffen](https://github.com/tproffen), [Amelie Nagle](https://github.com/SootSprite15), and many others are my major roll-models. 
-I, also love collecting and analyzing data, because the results are always amazingly unpredictable, suprising, and awesome. 📊 
-And I love all Octocats! :octocat:
+*Anyways*, I love analyzing and collecting data 📑 (might make a good data scientist someday 🤔) and am currently attending middle school 🏫 as a sixth grader.
 
-Oh! And, before I forget, I love💕 nature! 🌎
-
-I'm a major participant and volunteer in [ORCSGirls events](https://www.orcsgirls.org/events), they are SUPER fun, in fact, if you are a 5th - 8th grade girl or have a daughter who is, I highly recommend registering for some! 
-They were even awarded with one of the Top-Rated Awards of 2021 from [GreatNonprofits](https://greatnonprofits.org/org/oak-ridge-computer-science-girls)! 🥇 
-Genarally, they're AMAZING! 😎 
-You can visit them on GitHub at [@orcsgirls](https://github.com/orcsgirls). :basecamp:
-
-Here are a few facts about my Git and GitHub life :octocat: :electron::
-
-- 👩‍💻 I'm currently working on a lot of different coding projects
-- 📚 I'm currently learning a lot about Git and GitHub using [GitHub Docs](https://docs.github.com/) (P.S. - It's really helpful)
-- :octocat: :electron: :atom: <-- My favorite emojis, found only on GitHub
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=cyber-ocelot&theme=cobalt&show_icons=true&count_private=true&count_all_commits=true)![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=cyber-ocelot&layout=compact&theme=cobalt)
-</h6>
+As for my "weekend hobby" of coding 👩‍💻, I nourish 🪴 it by frequently volunteering for a large variety of ORCSGirls classes and partcipating in the brand new ones. By the way, ORCSGirls is a free non-profit organization stationed in Oak Ridge, Tennessee that provides a wide variety of programming opportunities for girls from grades 5-8, though high schoolers in grades 9-10 are more than welcome to join! 😊
+#ORCSGirlsRocks!! 🥳
