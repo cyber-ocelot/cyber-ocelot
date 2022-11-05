@@ -1,4 +1,4 @@
-## Hey, this is Thuviksa!
+### Hey, this is Thuviksa!
 
 I *love* 💕 to code and develop new ideas 💡, and am currently in a battle ⚔️ between favoring Swift 🐦 the most and favoring Python 🐍 the most. Currently, I have come to the deision that I will favor them both equally, but who knows 🤷‍♀️...
 
